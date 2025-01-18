@@ -71,16 +71,6 @@ To establish TokenBandit as the go-to platform for traders seeking a fun, compet
   - Integrate advanced analytics for trading insights.
   - Explore multi-chain compatibility through Solana-native bridges.
 
-## Tokenomics
-
-### Token Supply
-
-- **Initial Supply**: 100,000,000 BANDIT tokens.
-- **Distribution**:
-  - 50% for platform rewards.
-  - 20% for development and operations.
-  - 20% for community initiatives.
-  - 10% for liquidity and partnerships.
 
 ### Utility
 
