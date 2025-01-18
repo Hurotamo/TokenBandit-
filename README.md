@@ -72,11 +72,7 @@ To establish TokenBandit as the go-to platform for traders seeking a fun, compet
   - Explore multi-chain compatibility through Solana-native bridges.
 
 
-### Utility
 
-- **Transaction Fees**: BANDIT tokens can be used to pay for trade executions.
-- **Rewards**: Earn tokens through trading milestones and leaderboard rankings.
-- **Governance**: Token holders can participate in platform governance.
 
 ## Security Measures
 
