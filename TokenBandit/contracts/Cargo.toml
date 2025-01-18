@@ -1,0 +1,9 @@
+[package]
+name = "solana_program"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-program = "1.10.32"
+thiserror = "1.0.40"
+borsh = "0.9.3"
